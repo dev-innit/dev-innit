@@ -13,6 +13,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-innit/dev-innit/output/github-contribution-grid-snake.svg" />
   <img alt="snake" src="https://raw.githubusercontent.com/dev-innit/dev-innit/output/github-contribution-grid-snake.svg" />
 </picture>
+
+![](./profile-3d-contrib/profile-green-animate.svg)   
     
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=dev-innit&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
